@@ -1,4 +1,9 @@
 Bonjour, fichier pour créer un conflit 
+<<<<<<< HEAD
 Ligne 1, Je modifie la ligne 1 dans master (étape 3)
+Ligne 2
+=======
+Ligne 1
 Ligne 2 Je modifie la ligne 2 dans la branche (étape 2)
+>>>>>>> realwork
 Ligne 3 commande étape 1
