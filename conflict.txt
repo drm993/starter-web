@@ -1,4 +1,4 @@
 Bonjour, fichier pour créer un conflit 
 Ligne 1
-Ligne 2
+Ligne 2 Je modifie la ligne 2 dans la branche (étape 2)
 Ligne 3 commande étape 1
